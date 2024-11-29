@@ -1,0 +1,33 @@
+
+                                 Assignment-1
+
+1.What is computer?
+Answer- A computer is an electronic device that can process and store information. It can perform calculations, manipulate data, and execute instructions to accomplish specific tasks. The basic components of a computer include the central processing unit (CPU), memory (RAM), storage (hard drive or solid-state drive), input devices (keyboard, mouse, etc.), output devices (monitor, printer, etc.), and various peripheral devices (such as USB drives or external hard drives). It is a programmable device and it executes tasks by running the instructions stored in its memory. These tasks are executed based on predefined algorithms that process an output.
+
+
+2.What is RAM?
+Answer- Random Access Memory (RAM) is a type of computer memory that stores data temporarily while a computer is running. It’s called “random access” because the computer can access any part of the memory directly and quickly.
+RAM helps your computer run programs and process information quickly. When you turn off your computer, the data in RAM is lost, unlike data on your hard drive which is stored permanently. In this article, we are going to discuss about RAM and types of RAM in detail.
+
+3.Where is data stored in a computer?
+Answer- Data in a computer is stored in the hard disk drive (HDD) or solid state drive (SSD), which are commonly referred to as storage drives.
+
+4.What is that input device used to type text and numbers on a document in the computer system?
+Answer- Keyboard: The keyboard is the main input device of the computer that is used most often. The keyboard is used to perform all typing tasks on the computer. The keyboard has many types of keys for proper function.
+
+5.What are the output devices?
+Answer- Output Devices are those devices which show us the result after giving the input data to a computer system. Output can be in different forms like image, graphic audio, video, etc.
+Any peripheral that accepts data from a computer and prints, projects, or reproduces it is known as an output device. The output may be audio, video, hard copy – printed paper, etc. Output devices convert the computer data to human understandable form. We give input to the computer using input devices and the computer performs operations on the data and displays the output to the user using the output device.
+
+6.Which is the input device that allows a user to move the cursor or pointer on the screen?
+Answer-Mouse is a pointing device that controls the position of the cursor on a computer screen without using keyboard. It is called pointing device because it is used to point and select option on screen.
+
+7.Which language is directly understood by the computer without a translation program?
+Answer- Machine language is the only language that a computer can directly understand without a translation program.Machine language is made up of binary numbers that represent instructions and data. It's usually displayed in hexadecimal form to make it easier to read.
+
+8.What are Input devices?
+Answer- Input devices are the parts of the computer that we interact with daily and are used to input data to the computers. An input device is a hardware device that transfers data to a computer system and allows us to control it.The electromagnetic devices that accept data or a set of instructions from the outside world and then translate that data into machine-readable and understandable form are known as input devices. Computer input devices serve as an interface between the outside world and the computer for proper communication. When the users enter data using various input devices, the data can be saved in computer memory for further processing and preparation. Using the output devices, the intended and calculated results can be acquired when the processing and handling are completed. An input device transmits data to a computer and allows you to communicate with it and control it.
+
+
+
+
